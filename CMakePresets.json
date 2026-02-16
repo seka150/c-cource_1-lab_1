@@ -1,0 +1,75 @@
+{
+    "version": 9,
+    "configurePresets": [
+        {
+            "name": "linux-debug",
+            "displayName": "GCC Build",
+            "generator": "Ninja",
+            "binaryDir": "build/${presetName}",
+            "cacheVariables": {
+                "CMAKE_C_COMPILER": "gcc",
+                "CMAKE_CXX_COMPILER": "g++",
+                "CMAKE_BUILD_TYPE": "Debug"
+            },
+            "condition": {
+                "type": "equals",
+                "lhs": "${hostSystemName}",
+                "rhs": "Linux"
+            }
+        },
+        {
+            "name": "macos-debug",
+            "displayName": "Clang Build",
+            "generator": "Ninja",
+            "binaryDir": "build/${presetName}",
+            "cacheVariables": {
+                "CMAKE_C_COMPILER": "clang",
+                "CMAKE_CXX_COMPILER": "clang++",
+                "CMAKE_CXX_STDLIB_MODULES_JSON": "$env{CXX_STDLIB_MODULES_JSON_HINT}",
+                "CMAKE_OSX_SYSROOT": "macosx",
+                "CMAKE_BUILD_TYPE": "Debug"
+            },
+            "condition": {
+                "type": "equals",
+                "lhs": "${hostSystemName}",
+                "rhs": "Darwin"
+            }
+        },
+        {
+            "name": "windows-debug",
+            "displayName": "MSVC Build",
+            "generator": "Ninja",
+            "binaryDir": "build/${presetName}",
+            "cacheVariables": {
+                "CMAKE_C_COMPILER": "cl.exe",
+                "CMAKE_CXX_COMPILER": "cl.exe",
+                "CMAKE_BUILD_TYPE": "Debug"
+            },
+            "condition": {
+                "type": "equals",
+                "lhs": "${hostSystemName}",
+                "rhs": "Windows"
+            }
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "linux-debug",
+            "description": "",
+            "displayName": "GCC Build",
+            "configurePreset": "linux-debug"
+        },
+        {
+            "name": "macos-debug",
+            "description": "",
+            "displayName": "Clang Build",
+            "configurePreset": "macos-debug"
+        },
+        {
+            "name": "windows-debug",
+            "description": "",
+            "displayName": "MSVC Build",
+            "configurePreset": "windows-debug"
+        }
+    ]
+}

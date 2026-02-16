@@ -22,10 +22,11 @@ int main()
 	std::println("Веедите количество элементов последовательности: ");
 	std::cin >> n;
 
-	if (count < n)
+	while (count < n)
 	{
-		std::println("Введите элемент последовательности: ");
+		std::println("Введите элемент: ");
 		std::cin >> num;
+		count++;
 		if (num >= 0)
 		{
 			all_negative = false;
