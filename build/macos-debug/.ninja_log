@@ -1,0 +1,18 @@
+# ninja log v7
+3	66	1771308228842927102	CMakeFiles/oop-labs.dir/main.cpp.o.ddi	3b42dbba68a55bd3
+2	110	1771308228842663863	CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o.ddi	986cd594afec2603
+1	272	1771308228841850689	CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o.ddi	d7991d20be4217a0
+34	52	1771646755322235268	CMakeFiles/__cmake_cxx23.dir/CXX.dd	527bc0650888607e
+34	52	1771646755322235268	CMakeFiles/__cmake_cxx23.dir/CXXModules.json	527bc0650888607e
+34	52	1771646755322235268	CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o.modmap	527bc0650888607e
+34	52	1771646755322235268	CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o.modmap	527bc0650888607e
+52	64	1771646755340216557	CMakeFiles/oop-labs.dir/CXX.dd	c2390f0583f5e02d
+52	64	1771646755340216557	CMakeFiles/oop-labs.dir/CXXModules.json	c2390f0583f5e02d
+52	64	1771646755340216557	CMakeFiles/oop-labs.dir/main.cpp.o.modmap	c2390f0583f5e02d
+285	1473	1771308230310192864	CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o	ecaf5516305d356c
+285	1473	1771308230310192864	CMakeFiles/__cmake_cxx23.dir/std.pcm	ecaf5516305d356c
+1477	1639	1771308230476436370	CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o	c8418ec3ac6e8608
+1477	1639	1771308230476436370	CMakeFiles/__cmake_cxx23.dir/std.compat.pcm	c8418ec3ac6e8608
+1477	1821	1771308230317641636	CMakeFiles/oop-labs.dir/main.cpp.o	8bbdf815a9c7b77
+1639	3673	1771308230479050677	lib__cmake_cxx23.a	54d76aa4f3084fe2
+3673	3764	1771308232513232314	oop-labs	af0aebd5321f22cb

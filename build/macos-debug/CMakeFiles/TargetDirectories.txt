@@ -1,0 +1,5 @@
+/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx23.dir
+/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx26.dir
+/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/oop-labs.dir
+/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/edit_cache.dir
+/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/rebuild_cache.dir

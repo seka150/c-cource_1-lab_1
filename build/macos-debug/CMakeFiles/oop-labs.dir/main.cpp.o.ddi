@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/oop-labs.dir/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "std"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

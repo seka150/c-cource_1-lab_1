@@ -1,0 +1,35 @@
+{
+	"modules" : 
+	{
+		"std" : 
+		{
+			"bmi" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx23.dir/std.pcm",
+			"is-private" : false
+		},
+		"std.compat" : 
+		{
+			"bmi" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx23.dir/std.compat.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"std" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/__cmake_cxx23.dir/std.pcm"
+		},
+		"std.compat" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/__cmake_cxx23.dir/std.compat.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"std.compat" : 
+		[
+			"std"
+		]
+	}
+}

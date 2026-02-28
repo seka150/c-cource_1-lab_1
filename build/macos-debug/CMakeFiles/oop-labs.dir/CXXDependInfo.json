@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug",
+	"dir-cur-src" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1",
+	"dir-top-bld" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug",
+	"dir-top-src" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx23.dir"
+	],
+	"module-dir" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/oop-labs.dir",
+	"sources" : 
+	{
+		"CMakeFiles/oop-labs.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/main.cpp"
+		}
+	}
+}

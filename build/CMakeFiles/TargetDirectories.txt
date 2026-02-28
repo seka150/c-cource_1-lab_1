@@ -1,3 +1,0 @@
-/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/CMakeFiles/awesome.dir
-/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/CMakeFiles/edit_cache.dir
-/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/CMakeFiles/rebuild_cache.dir
