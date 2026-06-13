@@ -24,8 +24,8 @@ CMAKE_AR:FILEPATH=/usr/bin/ar
 // MinSizeRel ...
 CMAKE_BUILD_TYPE:STRING=Debug
 
-//No help, variable specified on the command line.
-CMAKE_CXX_COMPILER:UNINITIALIZED=clang++
+//CXX compiler
+CMAKE_CXX_COMPILER:STRING=/opt/homebrew/opt/llvm/bin/clang++
 
 //LLVM archiver
 CMAKE_CXX_COMPILER_AR:FILEPATH=/opt/homebrew/Cellar/llvm/21.1.8_1/bin/llvm-ar
@@ -54,8 +54,8 @@ CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 //No help, variable specified on the command line.
 CMAKE_CXX_STDLIB_MODULES_JSON:UNINITIALIZED=/opt/homebrew/Cellar/llvm/21.1.8_1/lib/c++/libc++.modules.json
 
-//No help, variable specified on the command line.
-CMAKE_C_COMPILER:UNINITIALIZED=clang
+//C compiler
+CMAKE_C_COMPILER:STRING=/opt/homebrew/opt/llvm/bin/clang
 
 //LLVM archiver
 CMAKE_C_COMPILER_AR:FILEPATH=/opt/homebrew/Cellar/llvm/21.1.8_1/bin/llvm-ar
@@ -102,8 +102,8 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 //Enable/Disable output of build database during the build.
 CMAKE_EXPORT_BUILD_DATABASE:BOOL=
 
-//Enable/Disable output of compile commands during generation.
-CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
+//No help, variable specified on the command line.
+CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE
 
 //Value Computed by CMake.
 CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/pkgRedirects
@@ -326,8 +326,6 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_EXPORT_BUILD_DATABASE
 CMAKE_EXPORT_BUILD_DATABASE-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: CMAKE_EXPORT_COMPILE_COMMANDS
-CMAKE_EXPORT_COMPILE_COMMANDS-ADVANCED:INTERNAL=1
 //Name of external makefile project generator.
 CMAKE_EXTRA_GENERATOR:INTERNAL=
 //Name of generator.

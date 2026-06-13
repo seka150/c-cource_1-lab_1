@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/llvm/21.1.8_1/lib/c++/../../share/libc++/v1  -Wall -Weffc++ -Wextra -Wpedantic -g -std=gnu++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-reserved-module-identifier @CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o.modmap -o CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o -c /opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm",
+  "file": "/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm",
+  "output": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o"
+},
+{
+  "directory": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/llvm/21.1.8_1/lib/c++/../../share/libc++/v1  -Wall -Weffc++ -Wextra -Wpedantic -g -std=gnu++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-reserved-module-identifier @CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o.modmap -o CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o -c /opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm",
+  "file": "/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm",
+  "output": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx23.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o"
+},
+{
+  "directory": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/llvm/21.1.8_1/lib/c++/../../share/libc++/v1  -Wall -Weffc++ -Wextra -Wpedantic -g -std=gnu++26 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-reserved-module-identifier @CMakeFiles/__cmake_cxx26.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o.modmap -o CMakeFiles/__cmake_cxx26.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o -c /opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm",
+  "file": "/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm",
+  "output": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx26.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.cppm.o"
+},
+{
+  "directory": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/opt/homebrew/Cellar/llvm/21.1.8_1/lib/c++/../../share/libc++/v1  -Wall -Weffc++ -Wextra -Wpedantic -g -std=gnu++26 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wno-reserved-module-identifier @CMakeFiles/__cmake_cxx26.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o.modmap -o CMakeFiles/__cmake_cxx26.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o -c /opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm",
+  "file": "/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm",
+  "output": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/__cmake_cxx26.dir/opt/homebrew/Cellar/llvm/21.1.8_1/share/libc++/v1/std.compat.cppm.o"
+},
+{
+  "directory": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -Wall -Weffc++ -Wextra -Wpedantic -g -std=gnu++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk @CMakeFiles/oop-labs.dir/main.cpp.o.modmap -o CMakeFiles/oop-labs.dir/main.cpp.o -c \"/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/main.cpp\"",
+  "file": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/main.cpp",
+  "output": "/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/oop-labs.dir/main.cpp.o"
+}
+]

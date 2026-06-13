@@ -37,7 +37,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -74,7 +74,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -86,7 +86,7 @@ events:
       - "/opt/homebrew/share/cmake/Modules/CMakeDetermineSystem.cmake:212 (message)"
       - "CMakeLists.txt:6 (project)"
     message: |
-      The system is: Darwin - 25.3.0 - arm64
+      The system is: Darwin - 25.5.0 - arm64
   -
     kind: "find-v1"
     backtrace:
@@ -125,7 +125,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -159,7 +159,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -202,7 +202,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -228,7 +228,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -278,7 +278,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -384,7 +384,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -421,7 +421,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -465,7 +465,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -491,7 +491,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -534,7 +534,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -571,7 +571,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -614,7 +614,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -651,7 +651,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -695,7 +695,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -721,7 +721,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -765,7 +765,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -791,7 +791,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -835,7 +835,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -861,7 +861,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -905,7 +905,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -931,7 +931,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -975,7 +975,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1001,7 +1001,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1045,7 +1045,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1071,7 +1071,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1114,7 +1114,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1138,7 +1138,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/tapi"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/tapi"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/tapi"
-      - "/opt/pmk/env/global/bin/tapi"
+      - "/pkg/env/global/bin/tapi"
       - "/Library/Apple/usr/bin/tapi"
       - "/Applications/VMware Fusion.app/Contents/Public/tapi"
       - "/usr/local/share/dotnet/tapi"
@@ -1164,7 +1164,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1211,7 +1211,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1236,7 +1236,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ar-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ar-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ar-21.1"
-      - "/opt/pmk/env/global/bin/llvm-ar-21.1"
+      - "/pkg/env/global/bin/llvm-ar-21.1"
       - "/Library/Apple/usr/bin/llvm-ar-21.1"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ar-21.1"
       - "/usr/local/share/dotnet/llvm-ar-21.1"
@@ -1260,7 +1260,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ar-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ar-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ar-21"
-      - "/opt/pmk/env/global/bin/llvm-ar-21"
+      - "/pkg/env/global/bin/llvm-ar-21"
       - "/Library/Apple/usr/bin/llvm-ar-21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ar-21"
       - "/usr/local/share/dotnet/llvm-ar-21"
@@ -1284,7 +1284,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ar21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ar21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ar21"
-      - "/opt/pmk/env/global/bin/llvm-ar21"
+      - "/pkg/env/global/bin/llvm-ar21"
       - "/Library/Apple/usr/bin/llvm-ar21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ar21"
       - "/usr/local/share/dotnet/llvm-ar21"
@@ -1310,7 +1310,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1357,7 +1357,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1382,7 +1382,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ranlib-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ranlib-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ranlib-21.1"
-      - "/opt/pmk/env/global/bin/llvm-ranlib-21.1"
+      - "/pkg/env/global/bin/llvm-ranlib-21.1"
       - "/Library/Apple/usr/bin/llvm-ranlib-21.1"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ranlib-21.1"
       - "/usr/local/share/dotnet/llvm-ranlib-21.1"
@@ -1406,7 +1406,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ranlib-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ranlib-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ranlib-21"
-      - "/opt/pmk/env/global/bin/llvm-ranlib-21"
+      - "/pkg/env/global/bin/llvm-ranlib-21"
       - "/Library/Apple/usr/bin/llvm-ranlib-21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ranlib-21"
       - "/usr/local/share/dotnet/llvm-ranlib-21"
@@ -1430,7 +1430,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ranlib21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ranlib21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ranlib21"
-      - "/opt/pmk/env/global/bin/llvm-ranlib21"
+      - "/pkg/env/global/bin/llvm-ranlib21"
       - "/Library/Apple/usr/bin/llvm-ranlib21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ranlib21"
       - "/usr/local/share/dotnet/llvm-ranlib21"
@@ -1456,7 +1456,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1503,7 +1503,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1528,7 +1528,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/clang-scan-deps-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/clang-scan-deps-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/clang-scan-deps-21.1"
-      - "/opt/pmk/env/global/bin/clang-scan-deps-21.1"
+      - "/pkg/env/global/bin/clang-scan-deps-21.1"
       - "/Library/Apple/usr/bin/clang-scan-deps-21.1"
       - "/Applications/VMware Fusion.app/Contents/Public/clang-scan-deps-21.1"
       - "/usr/local/share/dotnet/clang-scan-deps-21.1"
@@ -1552,7 +1552,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/clang-scan-deps-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/clang-scan-deps-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/clang-scan-deps-21"
-      - "/opt/pmk/env/global/bin/clang-scan-deps-21"
+      - "/pkg/env/global/bin/clang-scan-deps-21"
       - "/Library/Apple/usr/bin/clang-scan-deps-21"
       - "/Applications/VMware Fusion.app/Contents/Public/clang-scan-deps-21"
       - "/usr/local/share/dotnet/clang-scan-deps-21"
@@ -1576,7 +1576,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/clang-scan-deps21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/clang-scan-deps21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/clang-scan-deps21"
-      - "/opt/pmk/env/global/bin/clang-scan-deps21"
+      - "/pkg/env/global/bin/clang-scan-deps21"
       - "/Library/Apple/usr/bin/clang-scan-deps21"
       - "/Applications/VMware Fusion.app/Contents/Public/clang-scan-deps21"
       - "/usr/local/share/dotnet/clang-scan-deps21"
@@ -1602,7 +1602,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1645,7 +1645,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1671,7 +1671,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1721,7 +1721,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1831,7 +1831,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -1856,7 +1856,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ar-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ar-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ar-21.1"
-      - "/opt/pmk/env/global/bin/llvm-ar-21.1"
+      - "/pkg/env/global/bin/llvm-ar-21.1"
       - "/Library/Apple/usr/bin/llvm-ar-21.1"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ar-21.1"
       - "/usr/local/share/dotnet/llvm-ar-21.1"
@@ -1880,7 +1880,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ar-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ar-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ar-21"
-      - "/opt/pmk/env/global/bin/llvm-ar-21"
+      - "/pkg/env/global/bin/llvm-ar-21"
       - "/Library/Apple/usr/bin/llvm-ar-21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ar-21"
       - "/usr/local/share/dotnet/llvm-ar-21"
@@ -1904,7 +1904,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ar21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ar21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ar21"
-      - "/opt/pmk/env/global/bin/llvm-ar21"
+      - "/pkg/env/global/bin/llvm-ar21"
       - "/Library/Apple/usr/bin/llvm-ar21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ar21"
       - "/usr/local/share/dotnet/llvm-ar21"
@@ -1930,7 +1930,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -1977,7 +1977,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -2002,7 +2002,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ranlib-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ranlib-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ranlib-21.1"
-      - "/opt/pmk/env/global/bin/llvm-ranlib-21.1"
+      - "/pkg/env/global/bin/llvm-ranlib-21.1"
       - "/Library/Apple/usr/bin/llvm-ranlib-21.1"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ranlib-21.1"
       - "/usr/local/share/dotnet/llvm-ranlib-21.1"
@@ -2026,7 +2026,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ranlib-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ranlib-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ranlib-21"
-      - "/opt/pmk/env/global/bin/llvm-ranlib-21"
+      - "/pkg/env/global/bin/llvm-ranlib-21"
       - "/Library/Apple/usr/bin/llvm-ranlib-21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ranlib-21"
       - "/usr/local/share/dotnet/llvm-ranlib-21"
@@ -2050,7 +2050,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/llvm-ranlib21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/llvm-ranlib21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/llvm-ranlib21"
-      - "/opt/pmk/env/global/bin/llvm-ranlib21"
+      - "/pkg/env/global/bin/llvm-ranlib21"
       - "/Library/Apple/usr/bin/llvm-ranlib21"
       - "/Applications/VMware Fusion.app/Contents/Public/llvm-ranlib21"
       - "/usr/local/share/dotnet/llvm-ranlib21"
@@ -2076,7 +2076,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -2123,7 +2123,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -2148,7 +2148,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/clang-scan-deps-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/clang-scan-deps-21.1"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/clang-scan-deps-21.1"
-      - "/opt/pmk/env/global/bin/clang-scan-deps-21.1"
+      - "/pkg/env/global/bin/clang-scan-deps-21.1"
       - "/Library/Apple/usr/bin/clang-scan-deps-21.1"
       - "/Applications/VMware Fusion.app/Contents/Public/clang-scan-deps-21.1"
       - "/usr/local/share/dotnet/clang-scan-deps-21.1"
@@ -2172,7 +2172,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/clang-scan-deps-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/clang-scan-deps-21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/clang-scan-deps-21"
-      - "/opt/pmk/env/global/bin/clang-scan-deps-21"
+      - "/pkg/env/global/bin/clang-scan-deps-21"
       - "/Library/Apple/usr/bin/clang-scan-deps-21"
       - "/Applications/VMware Fusion.app/Contents/Public/clang-scan-deps-21"
       - "/usr/local/share/dotnet/clang-scan-deps-21"
@@ -2196,7 +2196,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/clang-scan-deps21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/clang-scan-deps21"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/clang-scan-deps21"
-      - "/opt/pmk/env/global/bin/clang-scan-deps21"
+      - "/pkg/env/global/bin/clang-scan-deps21"
       - "/Library/Apple/usr/bin/clang-scan-deps21"
       - "/Applications/VMware Fusion.app/Contents/Public/clang-scan-deps21"
       - "/usr/local/share/dotnet/clang-scan-deps21"
@@ -2222,7 +2222,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -2265,7 +2265,7 @@ events:
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/"
       - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/"
-      - "/opt/pmk/env/global/bin/"
+      - "/pkg/env/global/bin/"
       - "/Library/Apple/usr/bin/"
       - "/Applications/VMware Fusion.app/Contents/Public/"
       - "/usr/local/share/dotnet/"
@@ -2302,7 +2302,7 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin"
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
-        - "/opt/pmk/env/global/bin"
+        - "/pkg/env/global/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
         - "/usr/local/share/dotnet"
@@ -2318,8 +2318,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns"
-      binary: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns"
+      source: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI"
+      binary: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-scan-deps"
       CMAKE_CXX_STDLIB_MODULES_JSON: "/opt/homebrew/Cellar/llvm/21.1.8_1/lib/c++/libc++.modules.json"
@@ -2334,12 +2334,12 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns'
+        Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI'
         
-        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_e5d03
-        [1/2] /opt/homebrew/opt/llvm/bin/clang   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl,-v -MD -MT CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_b25c5
+        [1/2] /opt/homebrew/opt/llvm/bin/clang   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl,-v -MD -MT CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
         Homebrew clang version 21.1.8
-        Target: arm64-apple-darwin25.3.0
+        Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin
         Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg
@@ -2347,8 +2347,8 @@ events:
         User configuration file directory: /Users/ekaterinap/.config/clang
         clang: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
          (in-process)
-         "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
-        clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.3.0
+         "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.5.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
         #include "..." search starts here:
@@ -2358,15 +2358,15 @@ events:
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)
         End of search list.
-        [2/2] : && /opt/homebrew/opt/llvm/bin/clang -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl,-v CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -o cmTC_e5d03   && :
+        [2/2] : && /opt/homebrew/opt/llvm/bin/clang -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl,-v CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -o cmTC_b25c5   && :
         Homebrew clang version 21.1.8
-        Target: arm64-apple-darwin25.3.0
+        Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin
         Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg
         System configuration file directory: /opt/homebrew/etc/clang
         User configuration file directory: /Users/ekaterinap/.config/clang
-         "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_e5d03 -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a
+         "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_b25c5 -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1230.1
         BUILD 06:36:05 Dec  2 2025
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
@@ -2418,12 +2418,12 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns']
+        ignore line: [Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_e5d03]
-        ignore line: [[1/2] /opt/homebrew/opt/llvm/bin/clang   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl -v -MD -MT CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_b25c5]
+        ignore line: [[1/2] /opt/homebrew/opt/llvm/bin/clang   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl -v -MD -MT CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Homebrew clang version 21.1.8]
-        ignore line: [Target: arm64-apple-darwin25.3.0]
+        ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin]
         ignore line: [Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg]
@@ -2431,8 +2431,8 @@ events:
         ignore line: [User configuration file directory: /Users/ekaterinap/.config/clang]
         ignore line: [clang: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
         ignore line: [ (in-process)]
-        ignore line: [ "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-LyNUns" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
-        ignore line: [clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.3.0]
+        ignore line: [ "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-WKSfwI" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -x c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.5.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"]
         ignore line: [#include "..." search starts here:]
@@ -2442,15 +2442,15 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [[2/2] : && /opt/homebrew/opt/llvm/bin/clang -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl -v CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -o cmTC_e5d03   && :]
+        ignore line: [[2/2] : && /opt/homebrew/opt/llvm/bin/clang -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl -v CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -o cmTC_b25c5   && :]
         ignore line: [Homebrew clang version 21.1.8]
-        ignore line: [Target: arm64-apple-darwin25.3.0]
+        ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin]
         ignore line: [Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg]
         ignore line: [System configuration file directory: /opt/homebrew/etc/clang]
         ignore line: [User configuration file directory: /Users/ekaterinap/.config/clang]
-        link line: [ "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_e5d03 -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_b25c5 -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a]
           arg [/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -2467,12 +2467,12 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_e5d03] ==> ignore
+          arg [cmTC_b25c5] ==> ignore
           arg [-L/opt/homebrew/opt/postgresql@16/lib] ==> dir [/opt/homebrew/opt/postgresql@16/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_e5d03.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_b25c5.dir/CMakeCCompilerABI.c.o] ==> ignore
           arg [-lSystem] ==> lib [System]
           arg [/opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a] ==> lib [/opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a]
         linker tool for 'C': /usr/bin/ld
@@ -2515,8 +2515,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G"
-      binary: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G"
+      source: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4"
+      binary: "/Users/ekaterinap/Desktop/\u0443\u0447\u0435\u0431\u0430 /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-scan-deps"
       CMAKE_CXX_FLAGS: ""
@@ -2532,12 +2532,12 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G'
+        Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4'
         
-        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_475af
-        [1/2] /opt/homebrew/opt/llvm/bin/clang++   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl,-v -MD -MT CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_9b074
+        [1/2] /opt/homebrew/opt/llvm/bin/clang++   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl,-v -MD -MT CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Homebrew clang version 21.1.8
-        Target: arm64-apple-darwin25.3.0
+        Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin
         Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg
@@ -2545,8 +2545,8 @@ events:
         User configuration file directory: /Users/ekaterinap/.config/clang
         clang++: warning: -Wl,-v: 'linker' input unused [-Wunused-command-line-argument]
          (in-process)
-         "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/bin/../include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-        clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.3.0
+         "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/bin/../include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.5.0
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"
         ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"
         #include "..." search starts here:
@@ -2557,15 +2557,15 @@ events:
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)
          /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)
         End of search list.
-        [2/2] : && /opt/homebrew/opt/llvm/bin/clang++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl,-v CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_475af   && :
+        [2/2] : && /opt/homebrew/opt/llvm/bin/clang++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl,-v CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9b074   && :
         Homebrew clang version 21.1.8
-        Target: arm64-apple-darwin25.3.0
+        Target: arm64-apple-darwin25.5.0
         Thread model: posix
         InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin
         Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg
         System configuration file directory: /opt/homebrew/etc/clang
         User configuration file directory: /Users/ekaterinap/.config/clang
-         "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_475af -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a
+         "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_9b074 -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a
         @(#)PROGRAM:ld PROJECT:ld-1230.1
         BUILD 06:36:05 Dec  2 2025
         configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em armv8m.main armv8.1m.main
@@ -2619,12 +2619,12 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G']
+        ignore line: [Change Dir: '/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_475af]
-        ignore line: [[1/2] /opt/homebrew/opt/llvm/bin/clang++   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl -v -MD -MT CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_9b074]
+        ignore line: [[1/2] /opt/homebrew/opt/llvm/bin/clang++   -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk   -v -Wl -v -MD -MT CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Homebrew clang version 21.1.8]
-        ignore line: [Target: arm64-apple-darwin25.3.0]
+        ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin]
         ignore line: [Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg]
@@ -2632,8 +2632,8 @@ events:
         ignore line: [User configuration file directory: /Users/ekaterinap/.config/clang]
         ignore line: [clang++: warning: -Wl -v: 'linker' input unused [-Wunused-command-line-argument]]
         ignore line: [ (in-process)]
-        ignore line: [ "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-pDdN4G" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/bin/../include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-        ignore line: [clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.3.0]
+        ignore line: [ "/opt/homebrew/Cellar/llvm/21.1.8_1/bin/clang-21" -cc1 -triple arm64-apple-macosx26.0.0 -Wundef-prefix=TARGET_OS_ -Werror=undef-prefix -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -emit-obj -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -ffp-contract=on -fno-rounding-math -funwind-tables=1 -target-sdk-version=26.2 -fcompatibility-qualified-id-block-type-checking -fvisibility-inlines-hidden-static-local-var -fdefine-target-os-macros -fno-modulemap-allow-subdirectory-search -enable-tlsdesc -target-cpu apple-m1 -target-feature +v8.4a -target-feature +aes -target-feature +altnzcv -target-feature +ccdp -target-feature +ccpp -target-feature +complxnum -target-feature +crc -target-feature +dotprod -target-feature +flagm -target-feature +fp-armv8 -target-feature +fp16fml -target-feature +fptoint -target-feature +fullfp16 -target-feature +jsconv -target-feature +lse -target-feature +neon -target-feature +pauth -target-feature +perfmon -target-feature +predres -target-feature +ras -target-feature +rcpc -target-feature +rdm -target-feature +sb -target-feature +sha2 -target-feature +sha3 -target-feature +specrestrict -target-feature +ssbs -target-abi darwinpcs -debugger-tuning=lldb "-fdebug-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4" -target-linker-version 1230.1 -v "-fcoverage-compilation-dir=/Users/ekaterinap/Desktop/учеба /oop/labs/lab1/build/macos-debug/CMakeFiles/CMakeScratch/TryCompile-lUWBa4" -resource-dir /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21 -dependency-file CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/bin/../include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include -internal-isystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks -internal-iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks -fdeprecated-macro -ferror-limit 19 -stack-protector 1 -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fskip-odr-check-in-gmf -fcxx-exceptions -fexceptions -fmax-type-align=16 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -x c++ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [clang -cc1 version 21.1.8 based upon LLVM 21.1.8 default target arm64-apple-darwin25.5.0]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/local/include"]
         ignore line: [ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/Library/Frameworks"]
         ignore line: [#include "..." search starts here:]
@@ -2644,15 +2644,15 @@ events:
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks (framework directory)]
         ignore line: [ /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/SubFrameworks (framework directory)]
         ignore line: [End of search list.]
-        ignore line: [[2/2] : && /opt/homebrew/opt/llvm/bin/clang++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl -v CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_475af   && :]
+        ignore line: [[2/2] : && /opt/homebrew/opt/llvm/bin/clang++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl -search_paths_first -Wl -headerpad_max_install_names -L/opt/homebrew/opt/postgresql@16/lib -v -Wl -v CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_9b074   && :]
         ignore line: [Homebrew clang version 21.1.8]
-        ignore line: [Target: arm64-apple-darwin25.3.0]
+        ignore line: [Target: arm64-apple-darwin25.5.0]
         ignore line: [Thread model: posix]
         ignore line: [InstalledDir: /opt/homebrew/Cellar/llvm/21.1.8_1/bin]
         ignore line: [Configuration file: /opt/homebrew/etc/clang/arm64-apple-darwin25.cfg]
         ignore line: [System configuration file directory: /opt/homebrew/etc/clang]
         ignore line: [User configuration file directory: /Users/ekaterinap/.config/clang]
-        link line: [ "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_475af -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a]
+        link line: [ "/usr/bin/ld" -demangle -lto_library /opt/homebrew/Cellar/llvm/21.1.8_1/lib/libLTO.dylib -dynamic -arch arm64 -platform_version macos 26.0.0 26.2 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -mllvm -enable-linkonceodr-outlining -o cmTC_9b074 -L/opt/homebrew/opt/postgresql@16/lib -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o -lc++ -lSystem /opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a]
           arg [/usr/bin/ld] ==> ignore
           arg [-demangle] ==> ignore
           arg [-lto_library] ==> ignore, skip following value
@@ -2669,12 +2669,12 @@ events:
           arg [-mllvm] ==> ignore
           arg [-enable-linkonceodr-outlining] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_475af] ==> ignore
+          arg [cmTC_9b074] ==> ignore
           arg [-L/opt/homebrew/opt/postgresql@16/lib] ==> dir [/opt/homebrew/opt/postgresql@16/lib]
           arg [-search_paths_first] ==> ignore
           arg [-headerpad_max_install_names] ==> ignore
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_475af.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_9b074.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lc++] ==> lib [c++]
           arg [-lSystem] ==> lib [System]
           arg [/opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a] ==> lib [/opt/homebrew/Cellar/llvm/21.1.8_1/lib/clang/21/lib/darwin/libclang_rt.osx.a]
